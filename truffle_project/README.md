@@ -4,13 +4,13 @@
 1. Requirement
 	* NPM version 5.2 or later 
 2. Setup
-        * run `npm install`
 	* BLOCKCHAIN_PHRASE：12-word wallet mnemonic phrase 
 	* infura corresponds to the links of each chain, such as polygon test chain mumbai, set MUMBAI_LINK
         * to run on an camp network, should set: camp_network
-3. Compiling
-	`truffle compile`
-4. Migrating
+        * run `npm install`
+4. Compiling
+	* run `truffle compile`
+6. Migrating
 	* To migrate on camp network, run：`truffle deploy --network camp_network`
 
 PS: Thee account corresponding to the mnemonic phrase needs to have currency on the chain to be deployed, which can be used to pay for gas.
