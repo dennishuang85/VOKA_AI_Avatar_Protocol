@@ -6,8 +6,8 @@
 2. Setup
 	* BLOCKCHAIN_PHRASE：12-word wallet mnemonic phrase 
 	* infura corresponds to the links of each chain, such as polygon test chain mumbai, set MUMBAI_LINK
-        * to run on an camp network, should set: camp_network
-        * run `npm install`
+	* to run on an camp network, should set: camp_network
+	* run `npm install`
 4. Compiling
 	* run `truffle compile`
 6. Migrating
@@ -51,7 +51,7 @@ Register an account with offworld.live, and click “Download” the plug-in. Yo
   <img width="362" alt="image" src="https://user-images.githubusercontent.com/19359257/168949465-4a5c0757-7aa5-476b-93ca-0bba9b26e5aa.png">
   <img width="362" alt="image" src="https://user-images.githubusercontent.com/19359257/168949481-3a702918-7fb5-45b6-a8c0-86eb88e7bbdf.png">
   
-4. Download the capture software from our [github page](https://github.com/Zhang-Tianxu/VokaAIProtocol/).
+4. Please contact us for the UE capture software.
 
 **How to use**:
 
@@ -62,3 +62,4 @@ Register an account with offworld.live, and click “Download” the plug-in. Yo
 
 1. set environment variables, `BLOCKCHAIN_PHRASE`, `INFURA_LINK`, etc.
 2. migrate to specific blockchain, for instance `truffle migrate --network rinkeby` if we want migrate to testnet *rinkeby*.
+3. To migrate on camp network, run: 'truffle migrate --network camp_network'
