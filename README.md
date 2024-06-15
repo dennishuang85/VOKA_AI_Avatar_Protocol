@@ -1,7 +1,7 @@
 # VOKA AI PROTOCOL
 
 ## Introduction:
-***VOKA AI Protocol*** is the embodiment of a new generation of Web 3.0 technologies. 
+***VOKA AI Avatar Protocol*** is the embodiment of a new generation of Web 3.0 technologies. 
 Not only are we capable of **generating exclusive anime avatars through our proprietary AI technology**; 
 we can also use existing NFT PFPs to generate digital identities. 
 Furthermore, we collaborate with some of the world's top designers and clothing brands 
