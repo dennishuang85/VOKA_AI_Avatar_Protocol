@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+anime_face_detector/__init__.py
+anime_face_detector/detector.py
+anime_face_detector.egg-info/PKG-INFO
+anime_face_detector.egg-info/SOURCES.txt
+anime_face_detector.egg-info/dependency_links.txt
+anime_face_detector.egg-info/requires.txt
+anime_face_detector.egg-info/top_level.txt
+anime_face_detector/configs/mmdet/faster-rcnn.py
+anime_face_detector/configs/mmdet/yolov3.py
+anime_face_detector/configs/mmpose/hrnetv2.py
