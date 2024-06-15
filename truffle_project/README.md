@@ -4,7 +4,7 @@
 1. Requirement
 	* NPM version 5.2 or later 
 2. Setup
-        * `npm install`
+        * run `npm install`
 	* BLOCKCHAIN_PHRASE：12-word wallet mnemonic phrase 
 	* infura corresponds to the links of each chain, such as polygon test chain mumbai, set MUMBAI_LINK
         * to run on an camp network, should set: camp_network
